@@ -4,7 +4,7 @@
   position: Improved bounds of optimal (r,&#948)-locally repairable codes 
   duration: Jun, 2021 &mdash; Jul, 2023
   summary: Locally repairable codes (LRCs) are a class of codes widely used in distributed storage systems that optimize repair locality. Traditional r-LRCs could only recover a single erased symbol of codeword by assessing at most r other symbols in each local repair block; we analyzed the generalized LRCs of (r,&#948)-locality with optimal minimum Hamming distance to tolerate multiple node failures.
-  <ul class="resume-item-list"><li>Significantly improved the upper bound with weaker assumptions on the code length n of linear LRCs that is tight in at least three special cases, including d = 2&#948+2 and d = 2&#948+1 where d denotes the minimum distance; this bound can be exactly achieved in the above cases by existing constructions.</li><li>
+  <ul class="resume-item-list"><li>Significantly improved the upper bound with weaker assumptions on the code length n of linear LRCs that is tight in at least three special cases, including d &#61 2&#948 &#43 2 and d &#61 2&#948 &#43 1 where d denotes the minimum distance; this bound can be exactly achieved in the above cases by existing constructions.</li><li>
 
 # Director of Digital Stratgy
 - company: United Nations Human Rights Council
