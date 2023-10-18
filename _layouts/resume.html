@@ -94,6 +94,9 @@
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
         {% endfor %}
+      </section>
+      <!-- end Projects -->
+      {% endif %}
 
         {% if site.resume_section_experience %}
       <!-- begin Experience -->
@@ -115,9 +118,7 @@
       <!-- end Experience -->
       {% endif %}
 
-      </section>
-      <!-- end Projects -->
-      {% endif %}
+  
 
       {% if site.resume_section_skills %}
       <!-- begin Skills -->
